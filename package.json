@@ -1,6 +1,7 @@
 {
   "name": "favorite-classes",
   "version": "0.1.0",
+  "homepage": "https://ym-aung.github.io/favorite-classes",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
