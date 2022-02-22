@@ -1,5 +1,18 @@
 .class {
-    width: 100px;
-    height: 100px;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
     background-color: aqua;
+}
+
+#title {
+    font-size: 1.1em;
+    font-weight: bold;
+    margin-bottom: 0.5em;
+}
+
+#department {
+    margin-top: 0.5em;
+    font-style: italic;
+    padding: 0px;
 }
